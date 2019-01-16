@@ -6,4 +6,4 @@ Usage:
 
 # install
 
-`go install`
+`go get github.com/aramazani/ascii2utf8`
